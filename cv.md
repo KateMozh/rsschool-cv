@@ -1,12 +1,13 @@
 ## [rsschool-cv](https://katemozh.github.io/rsschool-cv/cv)
 # Katherine Mozheiko  
-## Junior Frontend Developer
-#
+# Junior Frontend Developer
+
 ## Contact information:
 * Phone: +375(33)355-96-42 (Telegram, Viber)
 * E-mail:  katia.belous96@gmail.com
 * GitHub:  [KateMozh](https://github.com/KateMozh) 
 * Instagram [m.r.s.kate](https://www.instagram.com/m.r.s.kate/)
+
 ## About Me
 
 I am an ambitious and hardworking person who strives for development, both professional and personal. I am open to everything new, try to gain new knowledge and skills. I have excellent interpersonal skills, enabling me to interact with a wide range of clients.
