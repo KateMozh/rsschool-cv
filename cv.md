@@ -40,3 +40,9 @@ function multiply(a, b) {
 ## Experience
 
 Nothing yet…
+
+## Languages
+
+* Russian - Native speaker.
+* English - B1.
+* Ukrainian - Upper-intermediate.
