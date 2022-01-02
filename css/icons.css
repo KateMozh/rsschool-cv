@@ -31,14 +31,14 @@
 }
 
 .icon-inst:before {
-  content: "\e900";
+  content: "/e900";
 }
 .icon-fb:before {
-  content: "\e901";
+  content: "/e901";
 }
 .icon-vk:before {
-  content: "\e90d";
+  content: "/e90d";
 }
 .icon-git:before {
-  content: "\e90e";
+  content: "/e90e";
 }
