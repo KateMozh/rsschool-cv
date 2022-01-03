@@ -1,4 +1,4 @@
-## [rsschool-cv](https://KateMozh.github.io/rsschool-cv/)
+## [rsschool-cv](https://katemozh.github.io/rsschool-cv/)
 
 # Katherine Mozheiko
 
